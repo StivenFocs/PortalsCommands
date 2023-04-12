@@ -1,0 +1,10 @@
+name: PortalsCommands
+version: 0.4
+main: it.stivenfocs.portalcommands.Main
+author: StivenFocs
+commands:
+    portalscommands:
+        aliases: [pcommands]
+permissions:
+    portalscommands.admin:
+        default: op
